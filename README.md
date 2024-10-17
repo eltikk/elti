@@ -1,1 +1,2 @@
-# elti
+# About me
+## Computer Engineering Student
